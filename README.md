@@ -9,3 +9,10 @@ overlapped fruits. This model is capable of detecting single fruit separately fr
 overlapping fruits. Nevertheless, taking a number of challenges into consideration, our 
 proposed model is capable of detecting fruits from image with a better accuracy and average 
 precision rate. 
+
+
+
+Please see the below links
+1) https://colab.research.google.com/drive/1lTGZsfMaGUpBG4inDIQwIJVW476ibXk_
+
+2) http://blog.ibanyez.info/blogs/coding/20190410-run-a-google-colab-notebook-to-train-yolov3-using-darknet-in/
